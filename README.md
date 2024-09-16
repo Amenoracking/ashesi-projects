@@ -1,2 +1,3 @@
 # ashesi-projects
-this contains all my current ashesi projectss
+this contains all my current ashesi projects
+
